@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.0] - 2024-06-30
+### Added
+- Segundo exercício incluído
+
+### Changed
+- Título da aula 1
+
+
 ## [1.1.0] - 2024-06-30
 ### Added
 - Primeiro exercício desenvolvido durante as aulas 

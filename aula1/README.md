@@ -1,4 +1,4 @@
-## Aula 1 - Introdução a serviços REST API
+# 🏬 Aula 1 - Introdução a serviços REST API (Entities & Controllers)
 
 ### O que é REST?
 REST é um acrônimo para Representational State Transfer, que é um estilo de arquitetura de software que define um conjunto de restrições para a criação de serviços web. O REST foi definido por Roy Fielding em sua tese de doutorado em 2000.
